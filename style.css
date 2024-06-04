@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(175, 212, 110);
+}
+h1 {
+    color: darkolivegreen;
+    font-family: "Papyrus"
+}
+h2 {
+    font-family: "Papyrus"
+}
+h3 {
+    font-family: "Papyrus";
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    color: darkolivegreen;
+}
